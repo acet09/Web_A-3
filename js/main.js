@@ -13,7 +13,7 @@ $(document).ready(function(){
     function slide(){
         $("#slide ul li:first").fadeOut().next().fadeIn().end().appendTo("#slide ul")
     }    
-    setInterval(slide, 3000);
+    // setInterval(slide, 3000);
 
     // tab
     $("#info .con_title a").click(function(){
