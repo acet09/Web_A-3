@@ -8,17 +8,6 @@ a{text-decoration: none; display:block; color: #333;}
 li{list-style: none;}
 body{color: var(--text_color); background-color: #fff;}
 header, section, footer {width: 1200px; margin:0 auto; box-sizing: border-box;}
-
-.hide-text{
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    margin: -1px;
-    overflow: hidden;
-    clip: rect(0, 0, 0, 0);
-   
-}
-
 /* haeder */
 header{
     position: relative;
