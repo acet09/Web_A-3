@@ -16,7 +16,7 @@ header, section, footer {width: 1200px; margin:0 auto; box-sizing: border-box;}
     margin: -1px;
     overflow: hidden;
     clip: rect(0, 0, 0, 0);
-    clip-path: inset(50%);    
+   
 }
 
 /* haeder */
